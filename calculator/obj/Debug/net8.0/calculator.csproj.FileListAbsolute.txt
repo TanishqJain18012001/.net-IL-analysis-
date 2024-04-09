@@ -1,0 +1,14 @@
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\bin\Debug\net8.0\calculator.exe
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\bin\Debug\net8.0\calculator.dll
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\bin\Debug\net8.0\calculator.pdb
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.dll
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\Tanishq.J_INT1581\source\repos\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll
